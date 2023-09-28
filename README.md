@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/e4c4acac-5e10-405a-9934-c750332252e0.svg)](https://wakatime.com/@e4c4acac-5e10-405a-9934-c750332252e0)
 
 <!--
 **kimnopal/kimnopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
